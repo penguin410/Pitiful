@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 /**
- * JavaFX上でタイル型WMをシミュレートする
+ * JavaFX上でタイル型UIっぽくNodeを配置する
  */
 
 final public class Pitiful {
